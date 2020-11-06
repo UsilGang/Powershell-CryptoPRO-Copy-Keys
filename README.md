@@ -5,6 +5,7 @@
 
 ----
 **.**
+![alt text](screen.png "View screen")
 
 **Usage:** *powershell.exe -noexit -ExecutionPolicy Bypass -File cryptopro_key_copy.ps1*
 
